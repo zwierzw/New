@@ -1,1 +1,1 @@
-aktualizacja pliku dla branch-conflict pierwszego
+aktualizacja pliku dla branch-conflict pierwszego i dla branch-commit-2
