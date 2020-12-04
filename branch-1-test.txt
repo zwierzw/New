@@ -1,1 +1,1 @@
-aktualizacja pliku branch-1-test
+aktualizacja pliku dla branch-conflict pierwszego
